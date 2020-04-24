@@ -1,0 +1,6 @@
+module Pods_gud_gudTests {
+  umbrella header "Pods-gud-gudTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
